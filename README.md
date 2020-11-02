@@ -1,1 +1,1 @@
-# metabarcoding_course
+# LearnMetabarcoding
